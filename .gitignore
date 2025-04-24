@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# venv
+.venv
+.env
+
+# cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# editor
+.vscode/
+.idea/
+
+# notebook
+.ipynb_checkpoints/
